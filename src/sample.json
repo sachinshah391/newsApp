@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Andrew Jeong",
+            "title": "Martin Shkreli to repay $64 million, banned from ever working in pharmaceuticals again - The Washington Post",
+            "description": "Shkreli had increased the price of Daraprim, a lifesaving drug, by 4,000 percent and wrongfully created a scheme to block competition, a federal judge found.",
+            "url": "https://www.washingtonpost.com/nation/2022/01/15/martin-shkreli-pharmaceuticals-bro-daraprim/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/QYNDFDDVN4I6ZITNDQQ4C2Y4SM.jpg&w=1440",
+            "publishedAt": "2022-01-15T11:49:00Z",
+            "content": "Shkreli has not expressed remorse or any awareness that his actions violated the law, wrote Cote in her ruling. While he takes full responsibility for the increase of Daraprims price from $17.50 to $… [+2957 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "David Waldstein",
+            "title": "Novak Djokovic’s Fight to Stay in Australia Lives Another Day - The New York Times",
+            "description": "A federal court judge scheduled a Sunday hearing to address the unvaccinated tennis star’s Australian visa revocation. The Australian Open begins on Monday.",
+            "url": "https://www.nytimes.com/2022/01/14/sports/tennis/novak-djokovic-australia-visa-hearing.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/14/multimedia/14djokovic-ledeall1/14djokovic-ledeall1-facebookJumbo.jpg",
+            "publishedAt": "2022-01-15T10:41:00Z",
+            "content": "The Australian government also expressed concern that on Dec. 18, a day after Djokovic learned that he had tested positive, he hosted journalists at his tennis center in Belgrade for an interview and… [+2213 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Aina J. Khan",
+            "title": "Towers Rise Over London’s Brick Lane, Clouding Its Future - The New York Times",
+            "description": "Luxury developments and rising rents have ignited concerns about gentrification and displacement in a district that has long been a sanctuary for minority communities.",
+            "url": "https://www.nytimes.com/2022/01/15/world/bangladesh-london-brick-lane-gentrification.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/12/world/12bricklane4/12bricklane4-facebookJumbo.jpg",
+            "publishedAt": "2022-01-15T10:00:20Z",
+            "content": "This area had been abandoned, said Dan Cruickshank, a historian and member of the Spitalfields Trust, a local heritage and conservation group.\r\nWhen he bought his home in Spitalfields in the 1970s a … [+1136 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Tamara Qiblawi, Jomana Karadsheh and Christian Streib, CNN",
+            "title": "Syrian torture survivors finally came face to face with their tormentor. But the reckoning took place far from home - CNN",
+            "description": "When Anwar Raslan was sentenced to life in prison for crimes against humanity, he appeared nonplussed. Elsewhere in the courtroom, the former Syrian colonel's victims rejoiced.  Amid cheers, they shook hands and embraced. Social distancing rules were briefly …",
+            "url": "https://www.cnn.com/2022/01/15/europe/raslan-syria-torture-trial-germany-intl-cmd/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220114135425-03-syria-anwar-raslan-jails-intl-super-tease.jpg",
+            "publishedAt": "2022-01-15T09:50:00Z",
+            "content": "Koblenz, Germany (CNN)When Anwar Raslan was sentenced to life in prison for crimes against humanity, he appeared nonplussed. Elsewhere in the courtroom, the former Syrian colonel's victims rejoiced. … [+10994 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Ted Regencia, Tamila Varshalomidze",
+            "title": "COVID contagiousness may linger beyond 5 days: New study – Live - Al Jazeera English",
+            "description": "British scientists find that a third of people infected with coronavirus might still be contagious after five days.",
+            "url": "https://www.aljazeera.com/news/2022/1/15/update-4-u-s-cdc-urges-americans-to-wear-most-protective-mask-you-can",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/04/2021-04-05T104829Z_2128611400_RC2MPM9GZRVP_RTRMADP_3_HEALTH-CORONAVIRUS-BRITAIN.jpg?resize=1200%2C630",
+            "publishedAt": "2022-01-15T09:24:06Z",
+            "content": "About a third of people infected with coronavirus might still be contagious after a five-day quarantine, a new British study says.\r\nThe researchers at the University of Exeter Medical School in Engla… [+6893 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Jesse O’Neill",
+            "title": "Mass shooting at Oregon rap concert leaves six hospitalized - New York Post ",
+            "description": "Multiple shots were fired at WOW Hall, where rappers Lil Bean, Zay Bang and other artists were scheduled to perform, in Eugene, Oregon.",
+            "url": "https://nypost.com/2022/01/15/oregon-rap-concert-mass-shooting-leaves-six-hospitalized/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/oregon-shooting.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-15T08:00:00Z",
+            "content": "Six people were injured after a shooting broke out at a rap concert in Eugene, Oregon on Friday, police said.\r\nMultiple shots were fired at WOW Hall, where rappers Lil Bean, Zay Bang and other artist… [+814 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Alex Stambaugh, Rhea Mogul and Sophie Jeong, CNN",
+            "title": "Tsunami warning issued for Tonga following volcanic eruption - CNN",
+            "description": "A tsunami has hit Tonga's largest island, Tongatapu, and reportedly sent waves flooding into the capital after an underwater volcano in the South Pacific exploded in a violent eruption on Saturday, sending a cloud of ash and gas steam into the air.",
+            "url": "https://www.cnn.com/2022/01/15/asia/tsunami-warning-tonga-volcano-intl-hnk/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220115024259-tonga-volcano-eruption-satellite-loop-011522-super-tease.jpg",
+            "publishedAt": "2022-01-15T07:56:00Z",
+            "content": "(CNN)A tsunami has hit Tonga's largest island, Tongatapu, and reportedly sent waves flooding into the capital after an underwater volcano in the South Pacific exploded in a violent eruption on Saturd… [+2614 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": null,
+            "title": "False Flag? US Says Russia Preparing Ops to Justify Ukraine Attack - Bloomberg",
+            "description": null,
+            "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=a3c982cb-7602-11ec-8863-4261626d6c77&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wMS0xNC91LXMtc2F5cy1ydXNzaWEtcHJlcGFyaW5nLW9wZXJhdGlvbnMtdG8tanVzdGlmeS11a3JhaW5lLWF0dGFjaw==",
+            "urlToImage": null,
+            "publishedAt": "2022-01-15T07:56:00Z",
+            "content": "To continue, please click the box below to let us know you're not a robot."
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NorthJersey.com"
+            },
+            "author": "Katie Sobko, Anne-Marie Caruso, Michael Karas, Scott Fallon",
+            "title": "11-alarm chemical fire in Passaic injures firefighter, burns into morning hours Saturday - NorthJersey.com",
+            "description": "An 11-alarm fire at a chemical plant near Canal Street in Passaic is causing evacuations, Mayor Hector Lora said.",
+            "url": "https://www.northjersey.com/story/news/passaic/passaic-city/2022/01/14/passaic-nj-downtown-fire-chemical-plant/6534555001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2022/01/15/PNJM/9f5fa658-cd58-483c-b1b3-af57af10878c-011422PassaicFire05Presto.JPG?crop=6015,3384,x0,y0&width=3200&height=1801&format=pjpg&auto=webp",
+            "publishedAt": "2022-01-15T07:39:30Z",
+            "content": "PASSAIC More than 200 firefighters continued to battle an 11-alarm chemical fire that sent one to the hospital early Saturday morning.\r\nFrigid temperatures caused runoff water to freeze and create ev… [+7216 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Times"
+            },
+            "author": "Alexis Benveniste, Jackie Frere",
+            "title": "Everyone Wants to Be Wordle - The New York Times",
+            "description": "Wordle went from a gift to an internet sensation, and now everyone wants in.",
+            "url": "https://www.nytimes.com/2022/01/14/crosswords/everyone-wants-to-be-wordle.html",
+            "urlToImage": "https://static01.nyt.com/images/2022/01/14/crosswords/14wordle-wordplay/14wordle-wordplay-facebookJumbo.png",
+            "publishedAt": "2022-01-15T07:11:00Z",
+            "content": "Wordle is free for players and doesnt have any ads, creating the ideal user experience. The success of nearly any product this popular is often followed by copycats, waddling behind in an effort to c… [+1391 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "U.S. CDC urges Americans to wear 'most protective mask you can' - Reuters",
+            "description": "The U.S. Centers for Disease Control and Prevention (CDC) on Friday revised <a href=\"https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/types-of-masks.html\" target=\"_blank\">its guidance</a> for Americans on wearing masks to protect against COVID-1…",
+            "url": "https://www.reuters.com/world/us/us-cdc-recommends-americans-wear-most-protective-mask-you-can-2022-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/fEfL11S17LGg3ORt7U_1tRe4lAU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ZJOQARLH4RP65GZIVLN7IS257A.jpg",
+            "publishedAt": "2022-01-15T07:09:00Z",
+            "content": "WASHINGTON, Jan 14 (Reuters) - The U.S. Centers for Disease Control and Prevention (CDC) on Friday revised its guidance for Americans on wearing masks to protect against COVID-19, recommending donnin… [+4684 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Ryan Dunleavy",
+            "title": "Jets' Braxton Berrios earn All-Pro honors - New York Post ",
+            "description": "While vacationing in Mexico with his girlfriend, Sophia Culpo, Jets kick returner Braxton Berros learned Friday that he had been named First-Team All-Pro by the Associated Press.",
+            "url": "https://nypost.com/2022/01/15/jets-braxton-berrios-earn-all-pro-honors/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/01/Braxton-Berrios-1.jpg?quality=90&strip=all&w=1024",
+            "publishedAt": "2022-01-15T06:50:00Z",
+            "content": "Braxton Berrios has a reason for a fiesta.\r\nWhile vacationing in Mexico with his girlfriend, Sophia Culpo, the Jets kick returner learned Friday that he had been named First-Team All-Pro by the Assoc… [+1026 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Andy Rose, CNN",
+            "title": "Portland police investigate 'dirty hippy' meme in training document making light of violence against protesters - CNN",
+            "description": "The Portland Police Bureau is conducting an internal investigation into a training presentation for dealing with mass protests that included a meme describing violence against protesters that begins, \"And the Lord said... Woe be unto you, dirty hippy.\"",
+            "url": "https://www.cnn.com/2022/01/15/us/portland-investigation-dirty-hippy-meme/index.html",
+            "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/200927113226-01-blm-protest-portland-0926-super-tease.jpg",
+            "publishedAt": "2022-01-15T05:59:00Z",
+            "content": "(CNN)The Portland Police Bureau is conducting an internal investigation into a training presentation for dealing with mass protests that included a meme describing violence against protesters that be… [+1621 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "ESPN India"
+            },
+            "author": "Adam Rittenberg",
+            "title": "Hawai'i Rainbow Warriors football coach Todd Graham resigns amid allegations of mistreating players - ESPN India",
+            "description": "Todd Graham, facing mounting allegations of mistreating players in the program, resigned Friday after two seasons with Hawai'i.",
+            "url": "https://www.espn.in/college-football/story/_/id/33069304/hawaii-rainbow-warriors-coach-todd-graham-resigns-amid-allegations-mistreating-players",
+            "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0109%2Fr959348_1296x729_16%2D9.jpg",
+            "publishedAt": "2022-01-15T05:55:50Z",
+            "content": "Hawai'i football coach Todd Graham, facing mounting allegations of mistreating players in the program, resigned Friday after two seasons with the school.\r\nGraham's decision comes a week after a state… [+2138 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Rolling Stone",
+            "title": "Bob Saget Mourned By ‘Full House’ Cast, Comedians At Funeral - Rolling Stone",
+            "description": "Bob Saget was mourned Friday during a Los Angeles funeral service attended by his Full House […]",
+            "url": "https://www.rollingstone.com/tv/tv-news/bob-saget-funeral-1285306/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2022/01/AP18193174063673.jpeg",
+            "publishedAt": "2022-01-15T05:38:14Z",
+            "content": "Bob Saget was mourned Friday during a Los Angeles funeral service attended by his Full House costars and numerous other Hollywood celebrities.\r\nAccording to TMZ, hundreds gathered at Mt. Sinai Memori… [+1903 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Luka Doncic (27 points, triple-double) Highlights vs. Memphis Grizzlies - Dallas Mavericks",
+            "description": "Luka Doncic (27 points, triple-double) Highlights vs. Memphis GrizzliesJoin Club Maverick!Check out the Mavs 2021-22 season tickets:https://www.mavs.com/tick...",
+            "url": "https://www.youtube.com/watch?v=Jv65kKl3nTA",
+            "urlToImage": "https://i.ytimg.com/vi/Jv65kKl3nTA/hqdefault.jpg",
+            "publishedAt": "2022-01-15T05:26:17Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "As Omicron fuels surge, U.S. students stage walkouts to protest in-person classes - Reuters",
+            "description": "Hundreds of students in Boston and Chicago walked out of classes on Friday in protests demanding a switch to remote learning as a surge in COVID-19 cases fueled by the Omicron variant disrupted efforts at returning to in-person education around the United Sta…",
+            "url": "https://www.reuters.com/world/us/omicron-fuels-surge-us-students-stage-walkouts-protest-in-person-classes-2022-01-14/",
+            "urlToImage": "https://www.reuters.com/resizer/xcc_pWet3knn1S00PaItBkkMHnI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MVJERKHMLZPWFIHDD2YXDKZML4.jpg",
+            "publishedAt": "2022-01-15T04:06:00Z",
+            "content": "BOSTON/CHICAGO, Jan 14 (Reuters) - Hundreds of students in Boston and Chicago walked out of classes on Friday in protests demanding a switch to remote learning as a surge in COVID-19 cases fueled by … [+4093 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "William Hughes",
+            "title": "Netflix is raising prices by $1-$2 a month - The A.V. Club",
+            "description": "At $20 a month, the service's Premium plan is now one of the most expensive on the market",
+            "url": "https://www.avclub.com/netflix-is-raising-prices-by-1-2-a-month-1848365533",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/d94ea660a6ad7b1088c3eb5ea2b6ef42.jpg",
+            "publishedAt": "2022-01-15T03:17:00Z",
+            "content": "Netflix announced tonight that its raising the prices for all of its subscription tiers by $1 to $2 a month. Its been roughly a year and a half since the streamers last price hike, which hit in Octob… [+2385 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AZCentral"
+            },
+            "author": ", The Arizona Republic",
+            "title": "Trump rally in Arizona: Conservative forum leads to police calls at Dream City Church - The Arizona Republic",
+            "description": "Former President Trump's first rally of 2022 will be in Florence, Arizona, where several Republican candidates will take the stage as well.",
+            "url": "https://www.azcentral.com/story/news/politics/arizona/2022/01/14/trump-rally-arizona-live-updates-florence/6529316001/",
+            "urlToImage": "https://www.gannett-cdn.com/presto/2021/12/20/PPHX/70660bca-ec94-452d-9a5a-da9fdcb19887-AMFestDay2_12192021_AT_028.JPG?auto=webp&crop=2499,1406,x0,y126&format=pjpg&width=1200",
+            "publishedAt": "2022-01-15T02:46:38Z",
+            "content": "Former President Donald Trump's first rally of 2022 will be in Florence, where several Republican candidates will take the stage as well.\r\nTrump's appearance Saturday will be his second in the state … [+2673 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Johana Bhuiyan",
+            "title": "Lawsuit claims Facebook and Google CEOs were aware of deal to control advertising sales - The Guardian",
+            "description": "Newly revealed documents from the complaint against Google shed light on potential advertising sales manipulation",
+            "url": "https://amp.theguardian.com/technology/2022/jan/14/facebook-google-lawsuit-advertising-deal",
+            "urlToImage": null,
+            "publishedAt": "2022-01-15T02:12:00Z",
+            "content": "TechnologyNewly revealed documents from the complaint against Google shed light on potential advertising sales manipulation\r\nSat 15 Jan 2022 02.12 GMT\r\nFacebook CEO Mark Zuckerberg and Google CEO Sun… [+3709 chars]"
+        }
+    ]
+}
